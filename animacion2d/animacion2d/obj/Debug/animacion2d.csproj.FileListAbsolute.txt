@@ -1,0 +1,10 @@
+C:\Users\hello\source\repos\animacion2d\animacion2d\bin\Debug\animacion2d.exe.config
+C:\Users\hello\source\repos\animacion2d\animacion2d\bin\Debug\animacion2d.exe
+C:\Users\hello\source\repos\animacion2d\animacion2d\bin\Debug\animacion2d.pdb
+C:\Users\hello\source\repos\animacion2d\animacion2d\obj\Debug\animacion2d.csproj.AssemblyReference.cache
+C:\Users\hello\source\repos\animacion2d\animacion2d\obj\Debug\animacion2d.Form1.resources
+C:\Users\hello\source\repos\animacion2d\animacion2d\obj\Debug\animacion2d.Properties.Resources.resources
+C:\Users\hello\source\repos\animacion2d\animacion2d\obj\Debug\animacion2d.csproj.GenerateResource.cache
+C:\Users\hello\source\repos\animacion2d\animacion2d\obj\Debug\animacion2d.csproj.CoreCompileInputs.cache
+C:\Users\hello\source\repos\animacion2d\animacion2d\obj\Debug\animacion2d.exe
+C:\Users\hello\source\repos\animacion2d\animacion2d\obj\Debug\animacion2d.pdb

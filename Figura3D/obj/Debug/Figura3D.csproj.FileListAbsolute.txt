@@ -1,0 +1,10 @@
+C:\Users\hello\source\repos\Figura3D\bin\Debug\Figura3D.exe.config
+C:\Users\hello\source\repos\Figura3D\bin\Debug\Figura3D.exe
+C:\Users\hello\source\repos\Figura3D\bin\Debug\Figura3D.pdb
+C:\Users\hello\source\repos\Figura3D\obj\Debug\Figura3D.csproj.AssemblyReference.cache
+C:\Users\hello\source\repos\Figura3D\obj\Debug\Figura3D.Form1.resources
+C:\Users\hello\source\repos\Figura3D\obj\Debug\Figura3D.Properties.Resources.resources
+C:\Users\hello\source\repos\Figura3D\obj\Debug\Figura3D.csproj.GenerateResource.cache
+C:\Users\hello\source\repos\Figura3D\obj\Debug\Figura3D.csproj.CoreCompileInputs.cache
+C:\Users\hello\source\repos\Figura3D\obj\Debug\Figura3D.exe
+C:\Users\hello\source\repos\Figura3D\obj\Debug\Figura3D.pdb

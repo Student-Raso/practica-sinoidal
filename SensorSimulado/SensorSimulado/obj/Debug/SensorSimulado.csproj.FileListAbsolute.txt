@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2015\Projects\SensorSimulado\SensorSimulado\bin\Debug\SensorSimulado.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SensorSimulado\SensorSimulado\bin\Debug\SensorSimulado.exe
+c:\users\user\documents\visual studio 2015\Projects\SensorSimulado\SensorSimulado\bin\Debug\SensorSimulado.pdb
+c:\users\user\documents\visual studio 2015\Projects\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.exe
+c:\users\user\documents\visual studio 2015\Projects\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.pdb
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\bin\Debug\SensorSimulado.exe.config
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\bin\Debug\SensorSimulado.exe
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\bin\Debug\SensorSimulado.pdb
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.csproj.AssemblyReference.cache
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.Form1.resources
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.Properties.Resources.resources
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.csproj.GenerateResource.cache
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.csproj.CoreCompileInputs.cache
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.exe
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.pdb
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.Form2.resources

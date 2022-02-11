@@ -1,0 +1,46 @@
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\bin\Debug\Video.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\bin\Debug\Video.exe
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\bin\Debug\Video.pdb
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\bin\Debug\AForge.dll
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\bin\Debug\AForge.Video.dll
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\bin\Debug\AForge.xml
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\bin\Debug\AForge.Video.xml
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.exe
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.pdb
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\user\documents\visual studio 2015\Projects\Video\Video\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\Downloads\Video64_Win10\Video\bin\Debug\Video.exe.config
+C:\Users\User\Downloads\Video64_Win10\Video\obj\Debug\Video.exe
+C:\Users\User\Downloads\Video64_Win10\Video\obj\Debug\Video.pdb
+C:\Users\User\Downloads\Video64_Win10\Video\bin\Debug\Video.exe
+C:\Users\User\Downloads\Video64_Win10\Video\bin\Debug\Video.pdb
+C:\Users\User\Downloads\Video64_Win10\Video\bin\Debug\AForge.dll
+C:\Users\User\Downloads\Video64_Win10\Video\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Downloads\Video64_Win10\Video\bin\Debug\AForge.Video.dll
+C:\Users\User\Downloads\Video64_Win10\Video\bin\Debug\AForge.xml
+C:\Users\User\Downloads\Video64_Win10\Video\bin\Debug\AForge.Video.xml
+C:\Users\User\Downloads\Video64_Win10\Video\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\Downloads\Video64_Win10\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Video64_Win10\Video\obj\Debug\Video.Form1.resources
+C:\Users\User\Downloads\Video64_Win10\Video\obj\Debug\Video.Properties.Resources.resources
+C:\Users\User\Downloads\Video64_Win10\Video\obj\Debug\Video.csproj.GenerateResource.Cache
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\bin\Debug\Video.exe.config
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\bin\Debug\Video.exe
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\bin\Debug\Video.pdb
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\bin\Debug\AForge.dll
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\bin\Debug\AForge.Video.dll
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\bin\Debug\AForge.xml
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\bin\Debug\AForge.Video.xml
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\obj\Debug\Video.csproj.AssemblyReference.cache
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\obj\Debug\Video.Form1.resources
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\obj\Debug\Video.Properties.Resources.resources
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\obj\Debug\Video.csproj.GenerateResource.cache
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\obj\Debug\Video.csproj.CoreCompileInputs.cache
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\obj\Debug\Video.exe
+C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\REC_patrones\Video\obj\Debug\Video.pdb
