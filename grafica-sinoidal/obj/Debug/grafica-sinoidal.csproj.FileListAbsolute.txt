@@ -8,3 +8,13 @@ C:\Users\hello\source\repos\grafica-sinoidal\obj\Debug\grafica-sinoidal.csproj.G
 C:\Users\hello\source\repos\grafica-sinoidal\obj\Debug\grafica-sinoidal.csproj.CoreCompileInputs.cache
 C:\Users\hello\source\repos\grafica-sinoidal\obj\Debug\grafica-sinoidal.exe
 C:\Users\hello\source\repos\grafica-sinoidal\obj\Debug\grafica-sinoidal.pdb
+C:\Users\hello\source\repos\practicas-apps-iot-uth\grafica-sinoidal\bin\Debug\grafica-sinoidal.exe.config
+C:\Users\hello\source\repos\practicas-apps-iot-uth\grafica-sinoidal\bin\Debug\grafica-sinoidal.exe
+C:\Users\hello\source\repos\practicas-apps-iot-uth\grafica-sinoidal\bin\Debug\grafica-sinoidal.pdb
+C:\Users\hello\source\repos\practicas-apps-iot-uth\grafica-sinoidal\obj\Debug\grafica-sinoidal.csproj.AssemblyReference.cache
+C:\Users\hello\source\repos\practicas-apps-iot-uth\grafica-sinoidal\obj\Debug\grafica_sinoidal.Form1.resources
+C:\Users\hello\source\repos\practicas-apps-iot-uth\grafica-sinoidal\obj\Debug\grafica_sinoidal.Properties.Resources.resources
+C:\Users\hello\source\repos\practicas-apps-iot-uth\grafica-sinoidal\obj\Debug\grafica-sinoidal.csproj.GenerateResource.cache
+C:\Users\hello\source\repos\practicas-apps-iot-uth\grafica-sinoidal\obj\Debug\grafica-sinoidal.csproj.CoreCompileInputs.cache
+C:\Users\hello\source\repos\practicas-apps-iot-uth\grafica-sinoidal\obj\Debug\grafica-sinoidal.exe
+C:\Users\hello\source\repos\practicas-apps-iot-uth\grafica-sinoidal\obj\Debug\grafica-sinoidal.pdb

@@ -18,3 +18,14 @@ C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimu
 C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.exe
 C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.pdb
 C:\Users\hello\OneDrive\Documents\UTH\QUINTO CUATRIMESTRE\AppIoT\code\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.Form2.resources
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\bin\Debug\SensorSimulado.exe.config
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\bin\Debug\SensorSimulado.exe
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\bin\Debug\SensorSimulado.pdb
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.csproj.AssemblyReference.cache
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.Form1.resources
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.Form2.resources
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.Properties.Resources.resources
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.csproj.GenerateResource.cache
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.csproj.CoreCompileInputs.cache
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.exe
+C:\Users\hello\source\repos\practicas-apps-iot-uth\SensorSimulado\SensorSimulado\obj\Debug\SensorSimulado.pdb

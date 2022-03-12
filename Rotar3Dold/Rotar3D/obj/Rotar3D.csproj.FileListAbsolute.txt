@@ -1,0 +1,8 @@
+D:\CDs\CDejemplos1\Projects\Rotar3D\Rotar3D\bin\Debug\Rotar3D.exe
+D:\CDs\CDejemplos1\Projects\Rotar3D\Rotar3D\bin\Debug\Rotar3D.pdb
+D:\CDs\CDejemplos1\Projects\Rotar3D\Rotar3D\obj\Debug\ResolveAssemblyReference.cache
+D:\CDs\CDejemplos1\Projects\Rotar3D\Rotar3D\obj\Debug\Rotar3D.Form1.resources
+D:\CDs\CDejemplos1\Projects\Rotar3D\Rotar3D\obj\Debug\Rotar3D.Properties.Resources.resources
+D:\CDs\CDejemplos1\Projects\Rotar3D\Rotar3D\obj\Debug\Rotar3D.csproj.GenerateResource.Cache
+D:\CDs\CDejemplos1\Projects\Rotar3D\Rotar3D\obj\Debug\Rotar3D.exe
+D:\CDs\CDejemplos1\Projects\Rotar3D\Rotar3D\obj\Debug\Rotar3D.pdb
